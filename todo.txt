@@ -1,0 +1,140 @@
+js deliver for all cdn 
+
+//meta tag generator
+{
+    meta tag generator likhe google e search korte hobe 
+
+    https://www.seoptimer.com/meta-tag-generator  site e giye meta generate korte hobe
+
+}
+
+link rules{
+    bootstrap file link er niche diye custom css file (style.css) hobe
+}
+
+
+
+
+
+
+//{
+    bootstrap file :
+
+    type e click kore all map file remove korte hobe
+
+
+   1. bootstrap.css (main file) 
+   2.grid
+   3.utilities
+   4.reboot
+
+
+
+
+
+   note:bootstrap.css and bootstrap min.css are the same file and same code 
+   thats the difference between bootstrap.css and bootstrap min.css
+   bootstrap.css written 11000line and bootstrap min.css written only 5-6 line
+
+   note:arabic website korte hole bootstrap.rtl use korte hobe
+
+
+}
+
+
+
+
+//{
+    github
+    client
+    peesonal portfolio
+    branding
+    website-sample
+    wordpress
+    server
+    php-mysql
+
+}
+
+(
+    domain-hosting
+    faceook.comserver-hoisting
+    Facebook.com: 69.63. 176.13
+
+)
+
+
+
+{
+    
+Breakpoint	Class infix	Dimensions
+X-Small	None	<576px
+Small	sm	≥576px
+Medium	md	≥768px
+Large	lg	≥992px
+Extra large	xl	≥1200px
+Extra extra large	xxl	≥1400px
+}
+
+
+//{
+    // X-Small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) { ... }
+}
+
+
+
+
+
+//
+{
+    // Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) { ... }
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767.98px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991.98px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+}
+
+
+==========================================================
+jQuery temaplate
+
+start with $
+then $()
+then $(document)
+then $(document).ready()
+then $(document).ready(function{  })
+
+
+
+========================================================================
+jQuery ul
+------------------------------------------------------------------------
+accordion
+
+proggressbar
+
